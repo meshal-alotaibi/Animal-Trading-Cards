@@ -1,0 +1,38 @@
+
+p.italic {
+  font-style: italic;
+	margin: 2px;
+  padding: 2px;
+  text-align: center;
+}
+.background {
+  border: 2px solid grey; margin: 12px;
+  background-color: #ebeff1;
+}
+li em {
+  font-weight: bold
+}
+.center {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+.mragin {
+  margin: 10px;
+}
+img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  width: 389px;
+  display: block;
+  flex-wrap: wrap;
+  border: 2px solid grey;
+	box-shadow: 4px 3px 6px #888888;
+  background-color: #dfeaef
+}
+/* add your CSS here */
